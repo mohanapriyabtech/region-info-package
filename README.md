@@ -1,6 +1,6 @@
 # Region-Info
 
-`region-info-package` provides a comprehensive set of functions to manage and retrieve information about countries, region-info-package management for both frontend and backend applications states, and cities. This package is designed to simplify the handling of geographical data and enhance your application's location-based features.
+`region-info-package` provides a comprehensive set of functions to manage and retrieve information about countries, states, and cities. This package is designed to simplify the handling of geographical data and enhance your application's location-based features.region-info-package management for both frontend and backend applications.
 
 ## Table of Contents
 
