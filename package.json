@@ -1,0 +1,26 @@
+{
+  "name": "region-info-package",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "exports": {
+    ".": {
+      "node": "./index.js",
+      "default": "./index.browser.js"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.browser.js",
+    "countries.json",
+    "states.json",
+    "cities.json"
+  ]
+  
+}

@@ -1,0 +1,23 @@
+# Ignore the node_modules directory (this is excluded by default)
+node_modules/
+
+# Ignore package-lock.json (optional)
+package-lock.json
+
+# Ignore documentation files
+docs/
+
+# Ignore configuration files
+.vscode/
+.idea/
+
+# text file
+content.txt/
+
+countries.json
+cities.json
+states.json
+
+index.js
+index.browser.js
+

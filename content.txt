@@ -1,0 +1,14 @@
+// Example usage:
+// console.log(getStatesByCountryId(1)); // Returns states for Country A
+// console.log(getCitiesByStateId(1));   // Returns cities for State A1
+// console.log(getCountryById(1));       // Returns the details of Country A
+// console.log(getStateById(1));         // Returns the details of State A1
+// console.log(getCityById(1));          // Returns the details of City A1-1
+// console.log(getAllCountries());       // Returns all countries
+// console.log(getAllStates());          // Returns all states
+// console.log(getAllCities());          // Returns all cities
+// console.log(getCountryNameByStateId(1)); // Returns the country name for State A1
+// console.log(getStateNameByCityId(1));   // Returns the state name for City A1-1
+// console.log(getFullLocationByCityId(1)); // Returns "City A1-1, State A1, Country A"
+// console.log(searchStatesByName('A1'));   // Returns states with "A1" in their name
+// console.log(searchCitiesByName('A1-1')); // Returns cities with "A1-1" in their name
